@@ -1,3 +1,3 @@
 module github.com/codershangfeng/golang-reflect
 
-go 1.15
+go 1.16
